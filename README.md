@@ -2,6 +2,8 @@
 
   This is my first project for github haha...
   The project's idea to control temperature in storage room using Arduino hardware it will replace exising thermostat.
+  
+  This project just **initial idea** stage.
 
 ## Idea
 
