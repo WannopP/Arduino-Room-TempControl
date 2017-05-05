@@ -1,7 +1,7 @@
-# Arduino-Car-TempControl
+# Arduino-Room-TempControl
 
   This is my first project for github haha...
-  The project's idea to control temperature in my car using Arduino hardware it will replace exising thermostat.
+  The project's idea to control temperature in storage room using Arduino hardware it will replace exising thermostat.
 
 ## Idea
 
