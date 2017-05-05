@@ -9,3 +9,8 @@
   2. Coding (May take some time, if i have time)
   3. Wiring
   4. Testing
+
+
+# Credits
+  auduino: open-source https://github.com/arduino/Arduino
+  
