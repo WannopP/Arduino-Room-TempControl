@@ -14,7 +14,7 @@
 ## Credits
   * auduino: open-source [Arduino][1]
   
-[1] https://github.com/arduino/Arduino
+[1]: https://github.com/arduino/Arduino
   
 
 
