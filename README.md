@@ -19,3 +19,5 @@
 [1]: https://github.com/arduino/Arduino
   
 
+## Update: 
+  **This project was terminated since 4Duino-24 board was damage**
